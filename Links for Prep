@@ -1,0 +1,148 @@
+https://www.geeksforgeeks.org/thoughtworks-interview-experience-set-2-off-campus/
+
+
+https://www.geeksforgeeks.org/thoughtworks-interview-experience-set-1-on-campus/
+
+
+https://www.hackerearth.com/practice/notes/thoughtworks-interview-question/
+
+
+<<I am writing this with context of a developer>>
+
+I have interviewed candidates for ThoughtWorks. Over the period of time I realised that there are a few general things ThoughtWorks seeks or desires from a prospective ThoughtWorker.
+
+* Are you good at software development?
+
+The first thing TW wants to know is that if you can code. And how good is your code.
+
+The goodness of any code is measured by: the cleanliness of the code; the design of your solution; ability of the reviewer to read and understand your code (this is subjective); Your discipline in terms of following general conventions, guidelines and good practices of writing code.
+
+* How good are you at what you do?
+
+Your resume reflects your work history in brief. Everything you mention in resume helps the interviewer understand bits and pieces about you and your work.
+
+Most of the times interviewer wants to know, how well you know what you claim to know. Various inferences are made based on your knowledge of certain topics.
+
+Retrospect on your past projects, what are some of the achievements you are proud of (and why), some of the harder problems you have solved (and how you have solved them), your opinions about technologies, frameworks, programming languages. And if you are passionate about your work, its a big plus.
+
+* Your ability to fail, learn and adapt.
+
+There will be questions which tests your ability to grasp information, learn from it and apply it to a problem.
+
+The questions are generally in a form of object modelling, pseudo code for an algorithm, solving a real world software problem or something from your work history.
+
+Practice object modelling. Practice multiple solutions for system/architecture design (even for your daily work). Never fail to try.
+
+* Are you fit for the organisation?
+
+In all the interview rounds, you will be assessed on various aspects. Aspects which matter to the organisation.
+
+Some very simple questions, interviewer asks himself while evaluating a candidate is:
+
+Will I be comfortable working with the candidate?
+
+Will the candidate adapt to the work environment?
+
+What would the candidate bring to the organisation which could be helpful for the business as well as the community?
+
+Take clues/suggestions from the points mentioned above to better prepare for the interview.
+
+Thanks.
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+First Round :
+
+It had the usual flow chart questions that Thought Works asks.
+We had 11 questions and it was easy to crack.
+Practice the template questions in advance.
+Second Round (Coding):
+
+To display the day of week after adding/subtracting a number from a day.
+Example : “ Monday +3” should give Thursday. “Monday -3” should give Friday.
+They were keen on the output for different kinds of inputs rather than our method of implementation.
+We could implement it in a language of our choice and time limit was half an hour.
+Third Round (Coding):
+
+A scenario was given and we were asked to code. Time limit was one and half an hour.
+
+A seating arrangement was to be designed for airplane management system which had an arrangement like [][]-[][][][]-[][] ( Pass way after the second and sixth seat ). It had three rows of such an arrangement.
+
+A group can have members ranging one to four and no person in the group must be booked with a seat alone.
+
+Write a code to allocate seats in such a manner that if the number of seats to be booked was
+
+Four : Together in the middle positions or allocated in pairs .
+Three : Only in the middle positions of the seating arrangement.
+Two : Only in pairs in the available location.
+One : If any unfilled position is available or in a position in sequence which is empty.
+They checked for the implementation of oops concepts like modularity.
+
+They checked the output for the different types of input and made sure it worked for all sorts!
+
+Fourth Round:
+
+The interviewer started with the usual “Introduce Yourself”.
+He began questioning from my projects. An Android Project of mine included a concept of JSON parsing and he asked me to JSON Model an object.
+Then he asked to write xml for the same. He also asked to write the logical code of my another project .
+He asked to explain the concept of JVM, the byte code and the role of archive files.
+To Display the even indexed numbers followed by the odd indexed numbers reversely for an array of any size. Given , a[5] = {1,2,3,4,5} ; (i.e) 1,3,5,4,2.
+Next I was asked to code for the Tic-Tac-Toe game! I gave him a solution and he gave me few suggestions on how to make it more efficient. I tried implementing those! We had a long discussion regarding the flow of the algorithm and the concepts implemented.
+He then asked to implement the concept of polymorphism for a scenario he provided in the language I was comfortable with. It was an easy one!
+10.4k views · View 22 Upvoters · View Sharers
+Jonathan Liang
+Jonathan Liang, Talent Hunter at ThoughtWorks (2016-present)
+Updated May 22, 2019
+There might be some slight differences between countries/offices depending on the business model. If onshore - meaning that you are physically working at the client location and collaborating physically with them - the interview will also assess your consulting and influencing ability. Soft skills are weighted more heavily in onshore offices than in an offshore-focused office.
+
+Other than that, from my experience, there are a few things that are essential and key to us in ThoughtWorks:
+
+Must be hands-on and want to continue be hands-on, we don’t need managers as we are truly agile and have self-managed teams. The more senior you get, you spend slightly less time doing hands-on software engineering because of other responsibilities, but you are also expected to be more seasoned and have more polished software engineering skills.
+TDD. For more junior positions like entry-level ones, showing an attempt at unit tests are good. But as you get more experienced, TDD is essential. Even if you aren’t used to it, I would encourage you to attempt to try it and read up on it as this is something that is done day-in and day-out on projects in ThoughtWorks.
+Knowledge of OOP concepts and Design Principles like SOLID, and other software engineering best practices. This is one of the things that also makes ThoughtWorks stand out. We build software from scratch, and we build them with clear best practices. Following these concepts and principles actually give you far less headaches in the long run, especially for the complexity that we are working with. We also do functional programming, but as a bare minimum, we want to see that you have a good understanding of the Object-oriented programming paradigm.
+Keep up to date with technology / frameworks / languages. Even if you are great at one language, pick up others so you understand what newer features are available out there that allow you to create the best solutions more efficiently. Our projects do not focus on one or a few languages. We pick the languages to use according to the nature of the problem presented to us by clients.
+Finally, get in the mindset that we are not looking for someone to take orders. Be confident in your opinions, and be curious. Let that curiosity guide you to ask deeper questions and to clarify the interviewers’ questions if you aren’t clear. Ours is an environment where we thrive on constructive feedback and open discussions, and we make decisions based on the merit of ideas/suggestions, not the seniority of the person making the decision.
+I’m glad you’re reading this to find out more, that’s the first step to being a great ThoughtWorker. I know we aren’t perfect, and frankly no company is. We’re still learning and thinking of the best way to build software, and we hope to find similar people who think critically to help us get better each day.
+
+All the best from ThoughtWorks Singapore!
+
+8.8k views · View 22 Upvoters
+Vipul Bansal
+Vipul Bansal, SDE at Amazon
+Answered Jan 29, 2015
+ThoughtWorks interview is slightly different than interviews for other companies.
+
+1) You should have a good idea of design in terms of OOPS. Be prepared to answer questions like "OO model for lift system", "OO model for chess" and similar. You should be able to use inerfaces, static classes etc. pretty well.
+
+2) All other general things like be ready to explain everything that you have written on resume etc.
+
+3) Focus on algorithms is of an average level.
+11.6k views · View 12 Upvoters
+Related QuestionsMore Answers Below
+How does the telephonic interview happen at ThoughtWorks? How do I prepare for it?
+How can I prepare for ThoughtWorks STEP interview?
+How do I prepare for ThoughtWorks' STEP technical interview?
+What's it like to work at ThoughtWorks?
+How is Thoughtworks doing?
+Jan Kulisek
+Jan Kulisek, Passionate networker and public speaker
+Answered Jan 8, 2015 · Author has 215 answers and 224.7k answer views
+Before every interview I prepare at least theese two answers:
+
+1) WHY I want to work with your company?
+
+2) WHY your company should want to hire me?
+
+Theese questions are winners and better answer you communicate to recruiter higher is your chance to get job offer.-------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
